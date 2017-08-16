@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BAB_007</Machine>
+    <WindowsUser>bablu</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.Accelerometer.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\bablu\Desktop\code-fun-do\C#\Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>89B96B7E55F277ADE51B46AC76E2E46A49BC89B49B5202CC1438B7FA4CCC61D5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.Accelerometer.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.Accelerometer.CS_8wekyb3d8bbwe!AccelerometerCS.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.Accelerometer.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T07:39:38.431</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\AccelerometerCS.Windows.exe">
+      <PackagePath>AccelerometerCS.Windows.exe</PackagePath>
+      <Modified>2015-09-20T07:39:37.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:22:31.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:22:31.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:22:31.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:22:31.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-06-05T22:22:31.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:22:31.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:22:31.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:22:31.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:22:31.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T22:22:31.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-20T07:39:36.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\Scenario1_DataEvents.xbf">
+      <PackagePath>Scenario1_DataEvents.xbf</PackagePath>
+      <Modified>2015-09-20T07:39:36.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\Scenario3_Polling.xbf">
+      <PackagePath>Scenario3_Polling.xbf</PackagePath>
+      <Modified>2015-09-20T07:39:36.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-20T07:39:36.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\Scenario2_ShakeEvents.xbf">
+      <PackagePath>Scenario2_ShakeEvents.xbf</PackagePath>
+      <Modified>2015-09-20T07:39:36.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\styles\Styles.xbf">
+      <PackagePath>styles\Styles.xbf</PackagePath>
+      <Modified>2015-09-20T07:39:36.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\AccelerometerCS.Windows.xr.xml">
+      <PackagePath>AccelerometerCS.Windows.xr.xml</PackagePath>
+      <Modified>2015-09-20T07:39:36.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\C#\Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-20T07:39:38.320</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

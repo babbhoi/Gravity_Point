@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\bablu\desktop\code-fun-do\project\dot\obj\debug\intermediatexaml\dot.exe" HashGuid="27f5826c-8017-974f-ac74-9ff05698d22a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\testplatform\12.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.core.dll" HashGuid="c5812cec-8f6c-e619-4d17-8cd8eb1aa0e3" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\testplatform\12.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.objectmodel.dll" HashGuid="1559bd71-3ff1-fdac-c8ff-481574eab36f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\testplatform\12.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.testexecutor.core.dll" HashGuid="cc569f31-de00-6299-0226-7c5d3a54db0c" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

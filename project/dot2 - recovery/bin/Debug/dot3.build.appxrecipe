@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BAB_007</Machine>
+    <WindowsUser>bablu</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7e8400ea-cc51-45c8-9523-962d10f9d90b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\dot2.exe">
+      <PackagePath>dot2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\Ambush.wav">
+      <PackagePath>Assets\Ambush.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\backgroundmusic.wav">
+      <PackagePath>Assets\backgroundmusic.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\Computer swoosh.wav">
+      <PackagePath>Assets\Computer swoosh.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\start.wav">
+      <PackagePath>Assets\start.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\Stereo woosh.wav">
+      <PackagePath>Assets\Stereo woosh.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\back.1png.png">
+      <PackagePath>Assets\back.1png.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\bg1.png">
+      <PackagePath>Assets\bg1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\dot.png">
+      <PackagePath>Assets\dot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\g.png">
+      <PackagePath>Assets\g.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\gravity.png">
+      <PackagePath>Assets\gravity.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\layout.png">
+      <PackagePath>Assets\layout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\point.png">
+      <PackagePath>Assets\point.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\p_int.png">
+      <PackagePath>Assets\p_int.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\ring.png">
+      <PackagePath>Assets\ring.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\back.bmp">
+      <PackagePath>Assets\back.bmp</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\Assets\dot.svg">
+      <PackagePath>Assets\dot.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\about_game.xbf">
+      <PackagePath>about_game.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\back.xbf">
+      <PackagePath>back.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\gameOver.xbf">
+      <PackagePath>gameOver.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\how_1.xbf">
+      <PackagePath>how_1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\how_2.xbf">
+      <PackagePath>how_2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\how_3.xbf">
+      <PackagePath>how_3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\Page1.xbf">
+      <PackagePath>Page1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\welcome.xbf">
+      <PackagePath>welcome.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\dot2.xr.xml">
+      <PackagePath>dot2.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bablu\Desktop\code-fun-do\project\dot2 - recovery\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

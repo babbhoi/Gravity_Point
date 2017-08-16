@@ -1,0 +1,51 @@
+﻿<Page
+    x:Class="dot2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:dot2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Background="Black">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="144*"/>
+            <RowDefinition Height="104*"/>
+            <RowDefinition Height="71*"/>
+            <RowDefinition Height="320*"/>
+        </Grid.RowDefinitions>
+
+        <Canvas x:ConnectionId='1' x:Name="background" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="660" Margin="-5,-5,0,-15" Grid.RowSpan="4" VerticalAlignment="Top" Width="405"                           >
+
+            <Image x:Name="bg1" Height="660" Canvas.Left="0" Canvas.Top="0" Width="405" Source="Assets/bg1.png" Stretch="UniformToFill"/>
+
+            <Image x:Name="bg2" Height="660" Canvas.Left="0" Canvas.Top="0" Width="405" Source="Assets/bg1.png" Stretch="UniformToFill"/>
+
+
+
+        </Canvas>
+
+        <Canvas x:ConnectionId='2' x:Name="can" HorizontalAlignment="Left" Height="640" Grid.RowSpan="4" VerticalAlignment="Top" Width="400" Grid.ColumnSpan="2"                    >
+            <Image x:Name="ring" Height="200" Canvas.Left="100" Canvas.Top="220" Width="200" Source="Assets/ring.png" Stretch="UniformToFill"/>
+            <Image x:Name="dot1" Height="24" Canvas.Left="188" Canvas.Top="327" Width="24" Source="Assets/dot.png" Visibility="Collapsed"/>
+            <MediaElement x:Name="mediaEl" Height="53" Width="67" IsLooping="True" Source="Assets/backgroundmusic.wav" IsTapEnabled="False" IsRightTapEnabled="False" IsHoldingEnabled="False" IsDoubleTapEnabled="False" Opacity="0" Visibility="Collapsed" RealTimePlayback="True" AudioCategory="BackgroundCapableMedia"/>
+            <MediaElement x:Name="effects" Height="61" Canvas.Left="337" Width="63" Visibility="Collapsed" AudioCategory="SoundEffects" Source="Assets/Stereo woosh.wav" Volume="0.3" AutoPlay="False"/>
+            <Ellipse x:Name="dot" Fill="#FFF4F4F5" Height="24" Stroke="White" Width="24" Canvas.Left="188" Canvas.Top="327"/>
+
+        </Canvas>
+        <Canvas x:Name="can2" Grid.ColumnSpan="2" Grid.RowSpan="4">
+        </Canvas>
+        <Grid Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="37" Margin="-5,-42,0,0" VerticalAlignment="Top" Width="405" Background="#FF4F0000"/>
+        <Canvas HorizontalAlignment="Left" Height="640" VerticalAlignment="Top" Width="400" Grid.ColumnSpan="2" Grid.RowSpan="4"/>
+        <Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="Layer_1_0" Width="237.387" Height="654.816" Canvas.Left="0" Canvas.Top="0"/>
+
+
+
+    </Grid>
+</Page>
+

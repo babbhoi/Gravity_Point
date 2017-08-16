@@ -1,0 +1,1 @@
+C:\Users\bablu\Desktop\code-fun-do\C#\Windows\AccelerometerCS.Windows.csproj;neutral

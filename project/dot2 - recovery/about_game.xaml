@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="dot2.about_game"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:dot2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:Name="about" HorizontalAlignment="Left" Margin="10,26,0,0" TextWrapping="Wrap" Text="About Game" VerticalAlignment="Top" Height="94" RenderTransformOrigin="0.5,0.5" Width="380" FontSize="64" Foreground="#FF00D1FF" TextAlignment="Center"/>
+        <TextBlock x:Name="_1st" Margin="0,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="65" RenderTransformOrigin="0.5,0.5" FontSize="48" Text="Developers" HorizontalAlignment="Left" Width="390" Foreground="#FF00D1FF" TextAlignment="Center"/>
+        <TextBlock x:Name="_1st_Copy" Margin="0,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="65" RenderTransformOrigin="0.5,0.5" FontSize="32" Text="1: Bablu Bhoi" HorizontalAlignment="Left" Width="390" Foreground="Cyan" TextAlignment="Center"/>
+        <TextBlock x:Name="_1st_Copy1" Margin="0,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="65" RenderTransformOrigin="0.5,0.5" FontSize="32" Text="2: Rahul Tudu" HorizontalAlignment="Left" Width="390" Foreground="Cyan" TextAlignment="Center"/>
+        <Button x:Name="how_1_back" Content="BACK" HorizontalAlignment="Left" Margin="142,527,0,0" VerticalAlignment="Top" FontSize="32" BorderBrush="{x:Null}" Click="about_back" Foreground="Cyan"/>
+    </Grid>
+</Page>

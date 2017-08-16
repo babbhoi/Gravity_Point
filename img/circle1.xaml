@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="Document" Width="500.16" Height="500.16" Clip="F1 M 0,0L 500.16,0L 500.16,500.16L 0,500.16L 0,0" UseLayoutRounding="False">
+	<Canvas x:Name="Layer_1" Width="500.16" Height="500.16" Canvas.Left="0" Canvas.Top="0">
+		<Ellipse x:Name="Ellipse" Width="500.16" Height="500.16" Canvas.Left="0" Canvas.Top="0" Stretch="Fill" StrokeThickness="1" StrokeLineJoin="Round" Stroke="#FF000000" Fill="#FFF8812E"/>
+	</Canvas>
+</Canvas>

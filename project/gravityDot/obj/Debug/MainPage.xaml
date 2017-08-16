@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="gravityDot.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:gravityDot"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="199*"/>
+            <ColumnDefinition Width="201*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="147*"/>
+            <RowDefinition Height="217*"/>
+            <RowDefinition Height="276*"/>
+        </Grid.RowDefinitions>
+        <Canvas x:Name="can" HorizontalAlignment="Left" Height="518" VerticalAlignment="Top" Width="400" Background="#FF2E2E2E" Grid.RowSpan="3" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="tb1" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="34" Margin="60,168.417,0,0" Grid.Row="2" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="277" FontSize="22"/>
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="dot2.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:dot2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='1' x:Name="how_to_play" Content="1: How to play" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top" Width="380" Height="80" FontSize="32" Foreground="#FF00FF97"                           BorderBrush="Black"/>
+        <Button x:ConnectionId='2' x:Name="about" Content="2: About Gravity Point" HorizontalAlignment="Left" Margin="10,253,0,0" VerticalAlignment="Top" Width="380" Height="80" FontSize="32" Foreground="#FF00FF97"                     BorderBrush="Black"/>
+        <Button x:ConnectionId='3' x:Name="Play" Content="PLAY &gt;" HorizontalAlignment="Center" Margin="98,424,76,0" VerticalAlignment="Top" Width="226" Height="124" FontSize="48" Foreground="#FF00FF97"                    BorderBrush="Black"/>
+    </Grid>
+</Page>
+

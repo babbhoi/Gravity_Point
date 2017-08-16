@@ -1,0 +1,17 @@
+Assets\mediumtile-sdk.png
+Assets\microsoft-sdk.png
+Assets\smalltile-Phone-sdk.png
+Assets\smalltile-Windows-sdk.png
+Assets\splash-Phone-sdk.png
+Assets\splash-Windows-sdk.png
+Assets\squaretile-sdk.png
+Assets\storelogo-sdk.png
+Assets\tile-sdk.png
+Assets\windows-sdk.png
+AccelerometerCS.Windows.xr.xml
+App.xbf
+MainPage.xbf
+Scenario1_DataEvents.xbf
+Scenario2_ShakeEvents.xbf
+Scenario3_Polling.xbf
+styles\Styles.xbf
